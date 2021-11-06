@@ -1,0 +1,15 @@
+.home-banner {
+  background-image: url('https://vistapointe.net/images/batman-the-dark-knight-1.jpg');
+  background-size: cover;
+  height: 240px;
+  color: #eee;
+  text-align: center;
+  padding-top: 10px;
+
+  h1 {
+    text-shadow: 1px 1px whitesmoke;
+    color: #08121D;
+    font-weight: bold;
+    font-size: 4rem;
+  }
+}
